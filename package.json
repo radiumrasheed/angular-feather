@@ -44,6 +44,6 @@
     "zone.js": "~0.10.3"
   },
   "dependencies": {
-    "feather-icons": "4.24.1"
+    "feather-icons": "4.28.0"
   }
 }
